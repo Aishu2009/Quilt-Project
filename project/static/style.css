@@ -1,0 +1,17 @@
+/* Apply general styles to the body */
+body {
+    font-family: Arial, sans-serif; /* Use Arial as the default font */
+    background-color: 	#98FF98;      /* Set a light gray background color */
+    color: #333;                   /* Set a dark gray text color */
+    text-align: center;            /* Center-align text */
+    margin: 0;                     /* Remove default margins */
+    padding: 0;                    /* Remove default padding */
+}
+
+/* Style for the main heading */
+h1.title{
+    color: #0f0738;
+}
+h1 {
+    color: #0078D7; /* Use a blue color for the heading text */
+}
